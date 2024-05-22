@@ -4,6 +4,7 @@ I implemented four basic data structures:
 - two-way list
 - binary heap
 - Red-Black tree
+
 All are designed to be dynamically adjustable. One can add, delete or search an item in them.
 
 The program has two options:
